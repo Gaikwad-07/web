@@ -1,4 +1,4 @@
 
-FROM /usr/sbin/apache2
+FROM /usr/bin/apache2
 ADD . /var/www/html 
 
